@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi there, I'm Nithin Ganesh! 👋
 
-<!--
-**nithinganesh1/nithinganesh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=ML+Engineer+%7C+DevOps+Engineer;TensorFlow+%7C+Kubernetes+Expert;Building+AI+%26+Cloud+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Kerala**, currently working at **Evolve Robotics**. I love building intelligent systems and robust cloud infrastructure that scales.
+
+🔭 **What I'm working on:** Developing cutting-edge ML models and scalable deployment pipelines  
+🌱 **Currently exploring:** Advanced MLOps practices and cloud-native architectures  
+💬 **Ask me about:** Machine Learning, Deep Learning, Kubernetes, CI/CD, or anything tech!  
+⚡ **Fun fact:** Always on the lookout for the next coding adventure - suggestions welcome! 🕵️‍♂️
+
+## 🛠️ Tech Stack
+
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinganesh1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinganesh1&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinganesh1&theme=algolia" alt="GitHub Streak" />
+</div>
+
+## 🏆 Featured Projects
+
+### 🤖 [Deep Learning Projects](https://github.com/nithinganesh1/Deep_Learning_Projects)
+Collection of various deep learning implementations and experiments exploring different neural network architectures and applications.
+
+### 🖼️ [Image Classification](https://github.com/nithinganesh1/Image_Classification)
+Advanced image classification models using TensorFlow and computer vision techniques for real-world applications.
+
+### 🚀 [Deployed Projects](https://github.com/nithinganesh1/Deployed_Project)
+Production-ready applications showcasing end-to-end ML deployment pipelines and DevOps best practices.
+
+### 🏗️ [Microservices Architecture](https://github.com/nithinganesh1/Microservices-Architecture)
+Scalable microservices implementation demonstrating modern cloud-native application design patterns.
+
+## 🎯 Current Focus
+
+- 🔬 Advancing MLOps practices for production ML systems
+- 🏗️ Building robust CI/CD pipelines for ML model deployment
+- 🌐 Exploring edge AI and IoT integrations
+- 📚 Contributing to open-source ML and DevOps projects
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-15-ganesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithinganesh1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinganesh1@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nithinganesh1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+*"The best way to predict the future is to create it."*
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🚀**
+
+</div>
