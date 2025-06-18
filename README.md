@@ -43,12 +43,6 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nithinganesh1&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
-<!-- Alternative Stats (uncomment if above doesn't work) -->
-<!--
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinganesh1&theme=algolia" />
-</div>
--->
 
 ## 🏆 Featured Projects
 
