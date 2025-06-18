@@ -45,20 +45,6 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
   <img src="https://streak-stats.demolab.com/?user=nithinganesh1&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div> -->
 
-## 🏆 Featured Projects
-
-### 🤖 [Deep Learning Projects](https://github.com/nithinganesh1/Deep_Learning_Projects)
-Collection of various deep learning implementations and experiments exploring different neural network architectures and applications.
-
-### 🖼️ [Image Classification](https://github.com/nithinganesh1/Image_Classification)
-Advanced image classification models using TensorFlow and computer vision techniques for real-world applications.
-
-### 🚀 [Deployed Projects](https://github.com/nithinganesh1/Deployed_Project)
-Production-ready applications showcasing end-to-end ML deployment pipelines and DevOps best practices.
-
-### 🏗️ [Microservices Architecture](https://github.com/nithinganesh1/Microservices-Architecture)
-Scalable microservices implementation demonstrating modern cloud-native application design patterns.
-
 ## 🎯 Current Focus
 
 - 🔬 Advancing MLOps practices for production ML systems
