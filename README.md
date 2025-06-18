@@ -14,7 +14,6 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
 ⚡ **Fun fact:** Always on the lookout for the next coding adventure - suggestions welcome! 🕵️‍♂️
 
 ## 🛠️ Tech Stack
-
 ### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,10 +28,12 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🖥️ Other Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-007ACC?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 📊 GitHub Analytics
 
