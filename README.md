@@ -22,6 +22,11 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=OpenCV\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-6C63FF?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2E7D32?style=for-the-badge\&logo=spacy\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF4088?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FFB300?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
