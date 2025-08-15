@@ -38,13 +38,13 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
 
 ### 🤖 Robotics & Embedded Systems
 
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-007ACC?style=for-the-badge&logo=arduino&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00A4EF?style=for-the-badge\&logo=azureiot\&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
 
 <!-- Communication Protocols -->
 
