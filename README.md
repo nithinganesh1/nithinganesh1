@@ -71,10 +71,11 @@ I'm a passionate **ML Engineer** and **DevOps Engineer** based in **Kochi, Keral
 
 ## 🎯 Current Focus
 
-- 🔬 Advancing MLOps practices for production ML systems
-- 🏗️ Building robust CI/CD pipelines for ML model deployment
-- 🌐 Exploring edge AI and IoT integrations
-- 📚 Contributing to open-source ML and DevOps projects
+- 📖 **Advancing NLP with Transformers** – deepening understanding of transformer architectures and their real-world applications  
+- 🤖 **Mastering ROS2** – building expertise in ROS2 for robotics, navigation, and multi-sensor integration  
+- ⚙️ **MLOps Practices** – developing robust CI/CD, monitoring, and deployment pipelines for ML systems  
+- 🛰️ **Edge AI & Robotics** – applying AI models to edge devices (Raspberry Pi, Jetson) for autonomous robots and drones  
+
 
 ## 🤝 Let's Connect!
 
