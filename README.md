@@ -1,8 +1,9 @@
 # Hi there, I'm Nithin Ganesh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=ML+Engineer+%7C+DevOps+Engineer;TensorFlow+%7C+Kubernetes+Expert;Building+AI+%26+Cloud+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=ML+Engineer+%7C+DevOps+Engineer;Robotics+Engineer;TensorFlow+%7C+Kubernetes+Expert;Building+AI+%26+Cloud+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
+
 
 ## 🚀 About Me
 
