@@ -5,7 +5,7 @@ Kochi, Kerala, India
 
 I build systems that connect data, machine learning, software and physical machines: computer vision, robot control, embedded hardware and the infrastructure that deploys them. My background is in commerce (BCom); I moved into engineering through hands-on projects and self-directed learning.
 
-**Portfolio:** [nithinganesh1.github.io](https://nithinganesh1.github.io)
+**Portfolio:** [nithinganesh1.github.io](https://nithinganesh1.github.io/nithinganesh1/)
 
 ## Work
 
